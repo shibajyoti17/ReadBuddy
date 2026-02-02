@@ -1,0 +1,7 @@
+{
+  "name": "ReadBuddy",
+  "description": "An AI-powered reading companion designed to help dyslexic children with adaptive reading tools, real-time speech feedback, and gamified learning.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
